@@ -1,4 +1,4 @@
-print("hello wprld")
+print("hello world")
 
 print("test code")
 
